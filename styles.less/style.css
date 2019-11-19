@@ -1,0 +1,600 @@
+.wrapper {
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+}
+.center {
+  max-width: 1170px;
+  width: 100%;
+  margin: 0 auto;
+}
+.container1 {
+  width: 100%;
+  max-width: 1440px;
+  height: 100vh;
+  max-height: 806px;
+  background: #eff0f2;
+}
+.container1 .header {
+  padding-top: 64px;
+}
+.container1 .header a {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 17px;
+  color: #00202b;
+  border: 6px solid #00202b;
+  text-transform: uppercase;
+  padding: 8px 6px 8px 6px;
+  text-align: center;
+  text-decoration: none;
+}
+.container1 .header a span {
+  font-size: 21px;
+  color: #61e3e7;
+}
+.container1 .header .burger {
+  display: inline-block;
+  float: right;
+}
+.container1 .header .burger i {
+  display: block;
+  width: 30px;
+  height: 4px;
+  margin: 3px;
+  background: #4f6e7a;
+}
+.container1 .header .menu {
+  float: right;
+  background: #61e3e7;
+  border: 1px solid #4f6e7a;
+  display: none;
+}
+.container1 .header .show {
+  display: inline-block;
+}
+.container1 .title {
+  text-align: center;
+  padding-top: 205px;
+}
+.container1 .title h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 45px;
+  color: #505050;
+  text-transform: uppercase;
+}
+.container1 .title h2 span {
+  background: #b2f2ee;
+  padding: 0px 20px 0px 5px;
+  margin: auto;
+}
+.container1 .title .button {
+  padding-top: 150px;
+}
+.container1 .title .button a {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 400;
+  size: 18px;
+  color: #3c3c3d;
+  padding: 18px 45px 18px 45px;
+  border: 2px solid #777879;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.container1 .title .image1 {
+  float: right;
+  padding-right: 125px;
+}
+.container1 .title .image1 img {
+  width: 100%;
+  max-width: 68px;
+  height: 100%;
+  max-height: 86px;
+}
+.container2 {
+  width: 100%;
+  max-width: 1440px;
+  background: #f8fafa;
+}
+.container2 .subtitle2 {
+  text-align: center;
+  padding-top: 130px;
+}
+.container2 .subtitle2 h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 38px;
+  color: #181919;
+  text-transform: uppercase;
+}
+.container2 .subtitle2 p {
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #989999;
+  text-transform: uppercase;
+  margin: 0 auto;
+}
+.container2 .karusel {
+  padding-top: 154px;
+}
+.container2 .content1 {
+  padding-top: 154px;
+  margin: 0 auto;
+}
+.container2 .content1 h3 {
+  padding-bottom: 30px;
+  margin: 0 auto;
+  text-transform: uppercase;
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  font-size: 20px;
+}
+.container2 .content1 p {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  margin: 0 auto;
+  padding-bottom: 30px;
+}
+.container2 .content1 h4 {
+  padding-bottom: 30px;
+  margin: 0 auto;
+  text-transform: uppercase;
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  font-size: 17px;
+}
+.container3 {
+  width: 100%;
+  max-width: 1440px;
+  background: #ffffff;
+}
+.container3 .subtitle3 {
+  text-align: center;
+  padding-top: 130px;
+}
+.container3 .subtitle3 h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 38px;
+  text-transform: uppercase;
+  margin: 0 auto;
+}
+.container3 .subtitle3 p {
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+  font-size: 17px;
+  text-transform: uppercase;
+  margin: 0 auto;
+  color: #898989;
+  padding-bottom: 125px;
+}
+.container3 .image2 {
+  padding-bottom: 125px;
+}
+.container3 .image2 .image2_1 {
+  display: inline-block;
+  padding: 0px 8px 14px;
+}
+.container3 .image2 .image2_1 img {
+  max-width: 370px;
+  width: 100%;
+}
+.container4 {
+  width: 100%;
+  max-width: 1440px;
+  background: #f9fbfb;
+}
+.container4 .subtitle4 {
+  padding-top: 125px;
+  margin: 0 auto;
+  text-align: center;
+}
+.container4 .subtitle4 h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 38px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+.container4 .subtitle4 h4 {
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+  font-size: 17px;
+  text-transform: uppercase;
+  margin: 0 auto;
+  color: #898989;
+  padding-bottom: 128px;
+}
+.container4 .boss {
+  padding-bottom: 125px;
+}
+.container4 .boss .cart {
+  padding: 0px 15px 15px 0px;
+}
+.container4 .boss .cart h5 {
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+  color: #f7f7f7;
+  font-size: 20px;
+  text-transform: uppercase;
+  margin: 0 auto;
+}
+.container4 .boss .cart p {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  color: #d4d4d4;
+  font-size: 16px;
+  margin: 0 auto;
+  padding-top: 30px;
+  padding-bottom: 60px;
+}
+.container4 .boss .cart span {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+  color: #d4d4d4;
+  font-size: 18px;
+  text-transform: uppercase;
+  margin: 0 auto;
+}
+.container4 .boss .cart span a {
+  padding-left: 20px;
+  margin: 0 auto;
+}
+.container4 .boss .cart .krest {
+  margin: 0 auto;
+  padding-top: 135px;
+  display: none;
+}
+.container4 .boss #card1 {
+  background-image: url(/img/PH1\,2CONT4.png);
+  padding-top: 185px;
+  padding-bottom: 60px;
+  padding-left: 65px;
+}
+.container4 .boss #card2 {
+  background-image: url(/img/PH1\,2CONT4.png);
+  padding-top: 185px;
+  padding-bottom: 60px;
+  padding-left: 65px;
+}
+.container4 .boss #card3 {
+  background-image: url(/img/PH3CONT4.png);
+  padding-top: 165px;
+  padding-bottom: 60px;
+  padding-left: 55px;
+}
+.container4 .boss #card4 {
+  background-image: url(/img/PH4CONT4.png);
+  padding-top: 165px;
+  padding-bottom: 60px;
+  padding-left: 55px;
+}
+.container4 .boss #card5 {
+  background-image: url(/img/PH5CONT4.png);
+  padding-top: 130px;
+  padding-bottom: 60px;
+  padding-left: 55px;
+}
+.container4 .boss #card6 {
+  background-image: url(/img/PH6CONT4.png);
+  padding-top: 130px;
+  padding-bottom: 60px;
+  padding-left: 55px;
+}
+.container4 .boss #card1:hover {
+  background: #71f6eb;
+  padding-top: 60px;
+  padding-bottom: 53px;
+  padding-left: 65px;
+}
+.container4 .boss #card1:hover h5 {
+  color: black;
+}
+.container4 .boss #card1:hover p {
+  color: black;
+}
+.container4 .boss #card1:hover span {
+  display: none;
+}
+.container4 .boss #card1:hover .krest {
+  display: inline-block;
+}
+.container4 .boss #card2:hover {
+  background: #71f6eb;
+  padding-top: 60px;
+  padding-bottom: 53px;
+  padding-left: 65px;
+}
+.container4 .boss #card2:hover h5 {
+  color: black;
+}
+.container4 .boss #card2:hover p {
+  color: black;
+}
+.container4 .boss #card2:hover span {
+  display: none;
+}
+.container4 .boss #card2:hover .krest {
+  display: inline-block;
+}
+.container4 .boss #card3:hover {
+  background: #71f6eb;
+  padding-top: 60px;
+  padding-bottom: 33px;
+  padding-left: 65px;
+}
+.container4 .boss #card3:hover h5 {
+  color: black;
+}
+.container4 .boss #card3:hover p {
+  color: black;
+}
+.container4 .boss #card3:hover span {
+  display: none;
+}
+.container4 .boss #card3:hover .krest {
+  display: inline-block;
+}
+.container4 .boss #card4:hover {
+  background: #71f6eb;
+  padding-top: 60px;
+  padding-bottom: 33px;
+  padding-left: 65px;
+}
+.container4 .boss #card4:hover h5 {
+  color: black;
+}
+.container4 .boss #card4:hover p {
+  color: black;
+}
+.container4 .boss #card4:hover span {
+  display: none;
+}
+.container4 .boss #card4:hover .krest {
+  display: inline-block;
+}
+.container4 .boss #card5:hover {
+  background: #71f6eb;
+  padding-top: 60px;
+  padding-bottom: 32px;
+  padding-left: 65px;
+}
+.container4 .boss #card5:hover h5 {
+  color: black;
+}
+.container4 .boss #card5:hover p {
+  color: black;
+}
+.container4 .boss #card5:hover span {
+  display: none;
+}
+.container4 .boss #card5:hover .krest {
+  display: inline-block;
+  padding-top: 100px;
+}
+.container4 .boss #card6:hover {
+  background: #71f6eb;
+  padding-top: 60px;
+  padding-bottom: 32px;
+  padding-left: 65px;
+}
+.container4 .boss #card6:hover h5 {
+  color: black;
+}
+.container4 .boss #card6:hover p {
+  color: black;
+}
+.container4 .boss #card6:hover span {
+  display: none;
+}
+.container4 .boss #card6:hover .krest {
+  display: inline-block;
+  padding-top: 100px;
+}
+.container5 {
+  width: 100%;
+  max-width: 1440px;
+  background: #ffffff;
+}
+.container5 .subtitle5 {
+  padding-top: 125px;
+  margin: 0 auto;
+  text-align: center;
+}
+.container5 .subtitle5 h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 38px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+.container5 .subtitle5 h4 {
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+  font-size: 17px;
+  text-transform: uppercase;
+  margin: 0 auto;
+  color: #898989;
+  padding-bottom: 128px;
+}
+.container5 .big_block {
+  padding-bottom: 120px;
+}
+.container5 .big_block .big_block1 {
+  background-image: url(/img/ph1cont5.png);
+  width: 100%;
+  max-width: 370px;
+  height: 440px;
+  margin: 0px 10px 10px 0px;
+}
+.container5 .big_block2 {
+  background-image: url(/img/ph2cont5.png);
+  width: 100%;
+  max-width: 370px;
+  height: 440px;
+  margin: 0px 10px 10px 0px;
+}
+.container5 .big_block3 {
+  background-image: url(/img/ph3cont5.png);
+  width: 100%;
+  max-width: 370px;
+  height: 440px;
+  margin: 0px 10px 10px 0px;
+}
+.container5 .big_block4 {
+  background-image: url(/img/ph4cont5.png);
+  width: 100%;
+  max-width: 370px;
+  height: 440px;
+  margin: 0px 10px 10px 0px;
+}
+.container5 .big_block5 {
+  background-image: url(/img/ph5cont5.png);
+  width: 100%;
+  max-width: 370px;
+  height: 440px;
+  margin: 0px 10px 10px 0px;
+}
+.container5 .big_block6 {
+  background-image: url(/img/ph1cont5.png);
+  width: 100%;
+  max-width: 370px;
+  height: 440px;
+  margin: 0px 10px 10px 0px;
+}
+#big_block {
+  margin-top: 165px;
+  width: 335px;
+  background-image: url(/img/cont5ram.png);
+  padding-left: 40px;
+  display: none;
+}
+#big_block h3 {
+  padding-top: 65px;
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  font-size: 20px;
+}
+#big_block h3 span {
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+  font-size: 15px;
+}
+#big_block p {
+  padding-top: 15px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+#big_block ul {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+#big_block ul li {
+  display: inline-block;
+  font-size: 12px;
+  padding-right: 16px;
+}
+.big_block1:hover #big_block,
+.big_block2:hover #big_block,
+.big_block3:hover #big_block,
+.big_block4:hover #big_block,
+.big_block5:hover #big_block,
+.big_block6:hover #big_block {
+  display: inline-block;
+}
+.container6 {
+  width: 100%;
+  max-width: 1440px;
+  background: #f9fbfb;
+}
+.container6 .subtitle6 {
+  padding-top: 125px;
+  margin: 0 auto;
+  text-align: center;
+}
+.container6 .subtitle6 h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 38px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+.container6 .subtitle6 h4 {
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+  font-size: 17px;
+  text-transform: uppercase;
+  margin: 0 auto;
+  color: #898989;
+  padding-bottom: 140px;
+}
+.container7 {
+  width: 100%;
+  max-width: 1440px;
+  background: #ffffff;
+}
+.container7 .lain1 {
+  text-align: center;
+  padding-top: 110px;
+}
+.container7 .lain1 div {
+  display: inline-block;
+  padding-right: 85px;
+}
+.container7 .lain1 div img {
+  width: 110px;
+  height: 60px;
+}
+.container7 .lain2 {
+  padding-top: 45px;
+  padding-bottom: 130px;
+}
+.container7 .lain2 div {
+  display: inline-block;
+  padding-right: 70px;
+}
+.container7 .lain2 div img {
+  width: 110px;
+  height: 60px;
+}
+.container9 {
+  width: 100%;
+  max-width: 1440px;
+  background: #262b2e;
+}
+.container9 .footer {
+  text-align: center;
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+.container9 .footer h3 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #a6a8a9;
+  text-transform: uppercase;
+}
+.container9 .footer ul {
+  padding-top: 18px;
+}
+.container9 .footer ul li {
+  display: inline-block;
+  margin-right: 8px;
+  font-size: 23px;
+  padding: 10px;
+  background-color: #424648;
+}
+.container9 .footer p {
+  padding-top: 42px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: #6c6f71;
+}
+.container9 .footer ul li:hover {
+  background-color: #6eeee4;
+}
